@@ -1,0 +1,6 @@
+D:\Учеба\44-pz\1sem\Vasina\NumericalMethods\Laba2\Laba2\obj\Debug\Laba2.csprojResolveAssemblyReference.cache
+D:\Учеба\44-pz\1sem\Vasina\NumericalMethods\Laba2\Laba2\bin\Debug\Laba2.exe.config
+D:\Учеба\44-pz\1sem\Vasina\NumericalMethods\Laba2\Laba2\bin\Debug\Laba2.exe
+D:\Учеба\44-pz\1sem\Vasina\NumericalMethods\Laba2\Laba2\bin\Debug\Laba2.pdb
+D:\Учеба\44-pz\1sem\Vasina\NumericalMethods\Laba2\Laba2\obj\Debug\Laba2.exe
+D:\Учеба\44-pz\1sem\Vasina\NumericalMethods\Laba2\Laba2\obj\Debug\Laba2.pdb
